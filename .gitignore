@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database (ChromaDB)
+data/chroma_db/
+data/uploads/
+
+# User data (Notes)
+# Uncomment the line below if you don't want to push your private notes
+# data/notes/
+
+# OS/IDEs
+.DS_Store
+.vscode/
+.idea/
+*.tmp
+*.log

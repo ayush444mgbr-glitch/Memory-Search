@@ -1,0 +1,8 @@
+chromadb
+ollama
+streamlit
+watchdog
+pypdf
+pytesseract
+Pillow
+python-dotenv
