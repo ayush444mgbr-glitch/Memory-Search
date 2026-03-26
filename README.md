@@ -181,7 +181,7 @@ What is artificial intelligence?
 ## 🧑‍💻 Author
 
 **Ayush Kumar**
-B.Tech Student | AI & Data Science Enthusiast
+B.Tech Student | Data Science Enthusiast
 
 ---
 
